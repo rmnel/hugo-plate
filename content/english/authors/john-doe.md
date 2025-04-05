@@ -1,6 +1,6 @@
 ---
 title: Tiger Dang Phong
-email: johndoe@email.com
+email: tigerdangphong@gmail.com
 image: "/images/avatar.png"
 description: this is meta description
 social:
