@@ -1,6 +1,6 @@
 ---
-title: Sam Wilson
-email: samwilson@email.com
+title: fraiser Crane
+email: fraisercrane@seattle.com
 image: "/images/avatar.png"
 description: this is meta description
 social:
