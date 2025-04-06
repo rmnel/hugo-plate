@@ -21,6 +21,11 @@ weight = 4
 name = "Pages"
 
 [[main]]
+name = "Shaboopy"
+url = "/shaboopy"
+weight = 5
+
+[[main]]
 parent = "Pages"
 name = "Blog"
 url = "/blog"
