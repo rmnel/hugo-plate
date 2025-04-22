@@ -1,5 +1,5 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "A century of art dealing in New York. The rise of American art"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
@@ -10,14 +10,8 @@ tags: ["technology", "tailwind"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+We study art trade in New York between 1870 and 1970, analyzing returns on investment by the renowned Knoedler gallery to shed light on the evolution of the American art market. We emphasize a shift in demand toward American art during the 1920s that was instrumental to promote the innovations of the New York school.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Abstract
 
-## Creative Design
-
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
-
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+We study art trade in New York between 1870 and 1970, analysing returns on investment by the renowned Knoedler gallery to shed light on the evolution of the American art market. A generalist art gallery should allocate investments to equalize expected returns, with differences in effective returns depending on purchase prices, number of traded works per artists, search costs, and shocks. We confirm these principles, finding that returns were higher for cheaper artworks, by more frequently traded artists, in stock for a shorter time, after solo exhibitions for the authors, or during booms and after the death of the artists. A key interest in the story of New York's leading gallery is in its connection with the history of American art over a crucial century. We find that the returns on European old masters follow an inverse U-shape, peaking during the First World War and declining thereafter, whilst the returns on American modern artists increase consistently throughout the century. This pattern aligns with a shift in demand towards American art that began in the 1920s and was instrumental in promoting the innovations of the New York school from Abstract Expressionism to Pop Art.
