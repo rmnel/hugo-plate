@@ -133,6 +133,28 @@ Overall, the main takeaway is that the advantage that kids from high-status fami
 
 So, in simpler terms: while your parents' advantages still give you a boost, that boost isn't as strong as it used to be, and over time, it became easier for people to move up or down the social ladder, especially after the 1600s.
 
+## Ka-Qing
+
+Okay, so why did this increase in social mobility happen after the 1600s? The author suggests we need to look at how much the economy valued skills and education during that time, both in terms of what was actually happening historically and the rules and systems that were in place.
+
+Think of it like this: if the economy starts to reward people more for what they know and what they can do (their skills and education) rather than just who their parents are, then you'd expect to see more social mobility. People from less privileged backgrounds could climb up if they gained valuable skills. Also, people from wealthy families might fall if they didn't develop those skills.
+
+The author points out that the timing of this increase in mobility roughly lines up with the beginning of new policies that the Qing Dynasty put in place in the 1600s. 1  This suggests that these new rules and systems might have played a role in making society more mobile. Perhaps these policies created more opportunities for people with skills and education, regardless of their family background
+
+So, in simple terms: the shift towards more social mobility after the 1600s might be because the economy started valuing what you learned and what you could do more than just your family name. And this change seems to have happened around the same time that the new government (the Qing Dynasty) started introducing new rules and ways of doing things. These new policies might have opened up more paths for people to move up or down the social ladder based on their own abilities.
+
+## The Great Gatsby
+
+Okay, so when how much you earn depends more on your skills and education (what economists call "return to human capital"), it doesn't just affect how easy it is to move up or down in society (mobility). It also affects how unequal society is.
+
+Think about it this way: if everyone has a chance to gain skills and get educated, and those things lead to better jobs and higher pay, then the gap between the rich and the poor might shrink. More people have a shot at doing well.
+
+The author points out that this connection between mobility and inequality has been seen in studies comparing different regions today. This idea is known as the Great Gatsby curve, which basically says that places with less social mobility tend to have more income inequality.
+
+What's really interesting is that this study found the same pattern happening over time in China. As social mobility increased (meaning it became easier to move up or down), income inequality actually decreased. It's like the pie was being shared more evenly.
+
+So, the author is showing that the changes they observed in China over centuries have something fundamental in common with what we see when we compare different places in the world today. When there's more opportunity for people to change their social standing, there tends to be less of a gap between the rich and the poor. It's like these two things – mobility and equality – are connected.
+
 
 
 
