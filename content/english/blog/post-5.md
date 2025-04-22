@@ -197,6 +197,58 @@ The author points out that the fact that social mobility can be different in dif
 
 So, in simple terms: this research fits into a bigger picture of studies trying to measure how much parents influence their children's social standing. By tracking this influence over a long period in one specific area of China, this paper helps us understand how social mobility can change over time, adding to what we know from comparing different countries or time periods.
 
+## 1
+
+One area of research starts with Ho's influential 1962 work on social mobility during the Ming and Qing dynasties. This study looked at the life stories of people who successfully passed China's civil service exams and suggested that there was more upward movement among the elite than previously thought. Other researchers, using excellent historical records, have built upon this work, including Huang (Reference Huang 2016) and Chang (Reference Chang 2023). Jiang and Kung (2020) specifically highlight the significance of "cultural capital"—meaning having a high-ranking ancestor—compared to having resources for success in the highest-level exams during the long 19th century (1796–1905). By concentrating on top graduates like *juren* and *jinshi* (those who passed provincial and national exams, respectively), this research offers insights into how mobility worked within the top 5 percent of society.
+
+**Footnote 8:** This research has yielded interesting findings.
+
+**Footnote 9:** However, the patterns of mobility within China's top 5 percent are different from the mobility patterns of the entire Chinese population.
+
+## 2
+
+Another area of research has looked at how things get passed down through generations by studying family records from Liaoning province in Northern China between 1749 and 1909 (Lee and Campbell 1997; Campbell and Lee 2003; Mare and Song 2014). Campbell and Lee (2011) even combined this information with surveys from the 1900s. This research emphasizes that your family from earlier generations and your wider relatives played a big role in whether you moved up in society, not just your parents (this idea is also supported by Solon 2014; Braun and Stuhler 2018; Keller and Shiue 2023).
+
+The good thing about the Liaoning records is that they are more complete than most Chinese family histories we know about today. However, a downside is that the Liaoning data doesn't really represent all of China. This is because about three out of every four men in their study were farmers who inherited their job. For the other men (who were prisoners of war, nobles who were forced to move, and farmers with special jobs), their job choices were even more limited.
+
+**Footnote 10:** Also, the Liaoning records only go back to the mid-1700s. This is too late to see important changes and increases in social mobility that happened when job restrictions started to disappear in the late Ming dynasty (Watson and Ebrey 1991) and when more people could take the civil service exams during the change from the Ming to the Qing dynasty (Ho 1962). In contrast, the information we are looking at in *this* study is a better representation of the job restrictions in China at that time and covers a longer period of more than two or three centuries. Plus, the kind of information found in family histories is really important for answering the questions we're asking.
+
+## 3
+
+A third area of growing interest is figuring out how family history records (genealogies) can help us study things that happen over many generations. Some recent work has used these records to understand how people reacted to population pressures (called Malthusian responses), how they used education and skills to deal with big problems, how diseases caused by the environment spread, and what limited people's ability to move (Hu 2023; Shiue and Keller 2023; Che 2023; Hess 2023).
+
+Recently, family history information has also been used to make census records match up better automatically. This helps in studying how social mobility changed between generations in the U.S. during the 1800s and 1900s (Price et al. 2021). Also, information that people remember and report about their families has been used to get better estimates of how much social mobility there is between generations (Jácome, Kuziemko, and Naidu 2022).
+
+## 4 
+
+Lastly, this research paper shows big changes in how people moved up or down in society over several centuries. It also takes into account the most important social groups at the time, which were clans (large family groups). Usually, studies about social mobility in China or other places don't really look at how these group connections affect things because they don't have information from such long periods. Or, some studies using just last names suggest that social mobility doesn't change much over time (Hao and Clark 2012; Clark 2014).
+
+**Footnote 11:** However, we know that moving between certain groups – for example, between Black and White people in the U.S. – is quite difficult. One problem with just using last names is that the low rates of mobility they find might partly reflect how difficult it is for entire groups to move up, rather than just individuals (Chetty et al. 2014). By considering the effects of clans in this study, I'm basically taking out these group differences. When I do that, the results show that the amount of social mobility actually looks higher. However, the results also show that even though clans helped keep families in similar social positions over time, the trends in social mobility still changed over time. This means that even with the influence of clans, social mobility still increased over the centuries.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
