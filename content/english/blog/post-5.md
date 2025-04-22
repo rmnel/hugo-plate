@@ -75,6 +75,21 @@ But, Ho also used family trees to show that even high-status families could lose
 
 Basically, what this paragraph is saying is that the picture is complicated. History shows us examples of families that stayed powerful for a long time, but also examples of powerful families losing their status. So, while there might have been some opportunities for people to move up, it wasn't always a one-way street, and the old powerful families still had ways of trying to stay in charge. It's a mix of things.
 
+# Father and Son
+
+Okay, so we've talked a lot about the fancy folks and how they moved up or down. But what about everyone else – the regular people who weren't part of the elite? We don't know as much about their social mobility during the Ming and Qing dynasties.
+
+That's where this research paper comes in! The person who wrote it is saying, "Hey, I'm going to use all the cool information in those Chinese family history books (genealogies) to actually measure how social mobility changed over time for everyone, not just the top guys."
+
+They looked at a wide range of social classes, from everyday commoners all the way up to those who got the super prestigious jinshi degree.
+
+Here's what they did:
+
+They looked at a specific place and families: They studied seven different families (clans) living in Tongcheng County over a long period, from around the 1300s to the 1900s.
+They tracked a lot of people: They had information on about 9,800 men and almost 9,000 father-son pairs in their sample. Around the year 1790, this group of people made up about 2% of the total population of that county.
+Where was this place? Tongcheng County was located in a certain area of China, near a big river and not too far from the sea.1   
+
+
 
 
 
