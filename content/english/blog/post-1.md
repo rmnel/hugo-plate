@@ -1,12 +1,12 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "St Andrews"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
+image: "/images/stAndrews.png"
+categories: ["Golf", "History"]
+author: "Ernie Els"
+tags: ["Hugo", "github"]
 draft: false
 ---
 
