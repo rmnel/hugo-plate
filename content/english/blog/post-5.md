@@ -225,6 +225,65 @@ Lastly, this research paper shows big changes in how people moved up or down in 
 
 **Footnote 11:** However, we know that moving between certain groups – for example, between Black and White people in the U.S. – is quite difficult. One problem with just using last names is that the low rates of mobility they find might partly reflect how difficult it is for entire groups to move up, rather than just individuals (Chetty et al. 2014). By considering the effects of clans in this study, I'm basically taking out these group differences. When I do that, the results show that the amount of social mobility actually looks higher. However, the results also show that even though clans helped keep families in similar social positions over time, the trends in social mobility still changed over time. This means that even with the influence of clans, social mobility still increased over the centuries.
 
+### CENTRAL FEATURES OF CHINA’S ECONOMY, 1300–1900
+
+Okay, so this piece of writing talks about a long period in history, from the late 1200s to the late 1800s. It looks at three big ruling families, called dynasties: part of the Yuan, the whole Ming, and most of the Qing.
+
+During this time, the number of people living there went up a lot, from about 100 million to 400 million by the year 1900.
+
+Even though how the government was set up changed over this long period, especially when you compare the Yuan to the later Ming and Qing, the real power was always held by one strong ruler in the middle and smaller government areas.
+
+Compared to other countries, the government didn't take a lot of money in taxes. Also, how much buying and selling happened probably wasn't limited as much by government rules as it was by things like not having great ways to travel or good ways to handle money. This was partly because the government didn't spend enough money to really make sure rules were followed everywhere.
+
+## 2.1
+
+Alright, so the way the government worked was mostly run by smart, educated people who had passed special tests. Getting a good education was like the key to getting into richer social groups.
+
+Because the main government in the middle didn't take a lot of taxes, it couldn't do everything itself. Instead, things like providing services for the public were often handled by the local governments and the important people in local family groups.
+
+Even though these local leaders had a lot of influence over their own families, their involvement in making decisions for the whole country was made official through those government tests I mentioned earlier. Passing those tests gave them the right to be part of the bigger political system.
+
+## 2.2
+
+Okay, so during the time of the Ming and Qing dynasties, taking part in these big, competitive government tests was the best way to get respect and earn more money. If you passed the test and got a government job, it came with really good benefits and made you important in society.
+
+These rewards were so appealing that even families who hadn't traditionally focused on education, but had become wealthy in other ways, started putting money into their sons' schooling. They saw it as a good investment.
+
+On the one hand, when local powerful people passed these government tests, it made the central government stronger and more accepted. On the other hand, these local leaders who supported the government by taking these tests also got paid well. So, it was like the central government and the local important people had a partnership that benefited both sides. This created a kind of stable situation that was unique to China and different from how societies were organized in Europe, for example.
+
+We know that local family groups were a big part of how society worked, but we don't know much yet about how these groups affected the economy.
+
+## 2.3
+
+So, basically, how much people could gain by investing in their education during this time was very closely tied to how well they did in the civil service exams.
+
+In this writing, I'm going to use a key source of information that these family groups created, called the genealogy (which is like a family history). These genealogies help us understand "status" in a broader way because they show not only how well someone did in the exams and what government titles they held, but also other kinds of wealth they had that were clearly important.
+
+In the next part, I'll talk more about where this information comes from.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
