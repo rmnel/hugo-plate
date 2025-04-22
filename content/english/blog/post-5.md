@@ -43,6 +43,28 @@ One of the big problems with studying how mobility changes over time is that thi
 
 So, this paragraph is basically saying that understanding how much kids' economic futures are tied to their parents' is key to understanding an economy. We know that different things now can affect this mobility. But it's tough to know how it worked way back in the past because things that influence it change slowly, so we need to study many generations to see any real changes over time.
 
+## Ancient Chinese Exams
+
+Okay, imagine historians who study China have always been super curious about how easy it was for people to move up or down in society. They've especially focused on how people got into and out of the top levels of society – like becoming powerful officials.
+
+Think of it like this: they're trying to figure out if China was a place where anyone could become the "cool kids" or if the "cool kids" always stayed the same families.
+
+One famous historian named Ho, who studied the Ming and Qing dynasties (a long time ago in China), said that the big civil service exams were the most important thing for deciding your social status. He even thought these exams became more important than just being from a fancy family. Basically, he argued that doing well on these tests could make you important, even if your family wasn't.
+
+Another historian, Kracke, asked a similar question: "Did these civil service exams bring in new people from different backgrounds into the government?" He wanted to know if it was a way for people who weren't born into privilege to get important jobs.
+
+Even before Kracke, a writer named Wittfogel looked at the biographies of officials from way back in Chinese history (from the Tang to the Qing dynasties). He thought that while the exam system might have let some new people in from lower social classes, for the most part, the powerful officials were mostly coming from families who were already powerful. It was like the "ruling class" mostly stayed within itself.
+
+To get a better idea, Kracke looked at who got the highest degree, called the jinshi degree, before the Ming dynasty. He tried to find out what the fathers, grandfathers, and great-grandfathers of these successful students did. This helped him see if these high achievers came from families with a history of being important.
+
+Ho also did something similar but for the entire Ming dynasty. He looked at all the people who got the top jinshi degree (over 22,000 of them!). He found that only a small percentage – about 7 out of every 100 – came from families that were officially known as "scholar" families. This suggests that maybe the exams did create some opportunities for people from less privileged backgrounds to rise to the top.
+
+So, basically, these historians were trying to figure out how people became important in China's past. They were especially interested in whether the civil service exams were a fair way for anyone to move up in society or if being from a well-known family was still the most important thing. Their research gives us clues about how open or closed Chinese society was at different times.
+
+
+
+
+
 
 
 
