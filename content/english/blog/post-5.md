@@ -75,7 +75,7 @@ But, Ho also used family trees to show that even high-status families could lose
 
 Basically, what this paragraph is saying is that the picture is complicated. History shows us examples of families that stayed powerful for a long time, but also examples of powerful families losing their status. So, while there might have been some opportunities for people to move up, it wasn't always a one-way street, and the old powerful families still had ways of trying to stay in charge. It's a mix of things.
 
-# Father and Son
+## Father and Son
 
 Okay, so we've talked a lot about the fancy folks and how they moved up or down. But what about everyone else – the regular people who weren't part of the elite? We don't know as much about their social mobility during the Ming and Qing dynasties.
 
@@ -88,6 +88,50 @@ Here's what they did:
 They looked at a specific place and families: They studied seven different families (clans) living in Tongcheng County over a long period, from around the 1300s to the 1900s.
 They tracked a lot of people: They had information on about 9,800 men and almost 9,000 father-son pairs in their sample. Around the year 1790, this group of people made up about 2% of the total population of that county.
 Where was this place? Tongcheng County was located in a certain area of China, near a big river and not too far from the sea.1   
+
+## Gyna-what?
+
+Okay, so think of these genealogies – those Chinese family history books we've been talking about – as really valuable sources of information about people's social and economic lives way back then.
+
+The author even points out that while not every country keeps these kinds of detailed family records, when they do exist (like in China), they're considered a super reliable way to study how people's status changes over many generations. In fact, for linking historical information about families in the United States, they've even been called "the gold standard" – meaning the very best!
+
+However, there's a potential problem: not every single family in China kept a genealogy. So, the families we do have records for might not be a perfect representation of everyone. It's like if you only surveyed people who owned fancy cars – you wouldn't get a good idea of what most people drive.
+
+To deal with this potential bias (where the families we study might be special in some way), the author explains that they used a careful method to pick the families in their study. They tried to choose families in a way that would give them a sample that was more like a good cross-section of society at the time.
+
+Because of this careful selection, the people in their study come from all sorts of backgrounds. There are very few people who achieved that super high jinshi degree (only about 0.2% of their sample), which makes sense because it was really hard to get. And the majority of the people in their sample (around 70%) were regular, everyday folks (commoners), which also reflects what society was probably like back then.
+
+So, this paragraph is saying that these family history books are great for studying social mobility, but you have to be careful about which families you look at. The author made an effort to pick families that represent the different social classes in China at the time, so their findings are more likely to give us a realistic picture.
+
+## The Matrices
+
+So, the author looked at their data from those family history books and created something called "transition matrices." Think of these like charts that show how likely it was for someone to move from one social class to another between generations (from father to son).
+
+What they found for the jinshi (the super high-achievers) was interesting. They discovered that about 7% of fathers who were jinshi also had sons who became jinshi. Guess what? That's very close to the 7.1% that the historian Ho found in his research! It's like their numbers match up.
+
+However, the author has a slightly different way of looking at this compared to Ho. While Ho might have seen this as some level of movement (since not all jinshi fathers had jinshi sons), this author sees it as a sign that family status tended to stick around at the top.
+
+Here's why: the author also found that for every three sons of a jinshi, one of them (that's about 33%) stayed within the top 2% of the social ladder. Think of it like the very top of the pyramid – even if they didn't get the exact same jinshi title, they still remained in a very elite group.
+
+The author also points out something really cool that you can't find in official government records: they were able to track how people moved within the groups just below the elite and even among the regular, non-elite folks. So, they got a much broader picture of social mobility across all levels of society, not just at the very top.
+
+In simple terms: even though not every jinshi father had a jinshi son, the author's research suggests that if you were from a top family, there was a pretty good chance your son would also end up near the top. Plus, they were able to see how mobility worked for everyone else in society, which is something we didn't really know much about before.
+
+## 50-50
+
+Okay, imagine a game where your parents give you a head start in life, maybe because they have more money or better connections. This research suggests that whatever advantage your parents give you, it gets cut in half in your generation. So, if your parents gave you a 10-point advantage, you'd likely only have a 5-point advantage over someone whose parents didn't have those resources.
+
+However, this average picture hides some really interesting changes that happened over time, both for people moving up and for people moving down the social ladder.
+
+What the study found is that mobility increased over time, both ways:
+
+Upward mobility increased: This means that fewer sons born into poor families stayed poor as time went on. They had a better chance of climbing up the social ladder.
+Downward mobility increased: This also means that fewer sons from very rich families stayed very rich. There was a greater chance they might fall down the social ladder.
+Interestingly, this wasn't always the case. The study suggests that mobility was low until around the middle of the 1600s. It was harder for people to change their social standing. But then, starting from the late 1600s, mobility increased significantly. Things became more fluid, with more movement both up and down.
+
+Overall, the main takeaway is that the advantage that kids from high-status families had over kids from lower-status families got smaller over time. It became less guaranteed that you'd stay rich if your parents were rich, and it became more possible to climb out of poverty. The author says that this increase in mobility is a pretty solid finding, even when they checked their results in different ways.
+
+So, in simpler terms: while your parents' advantages still give you a boost, that boost isn't as strong as it used to be, and over time, it became easier for people to move up or down the social ladder, especially after the 1600s.
 
 
 
