@@ -61,6 +61,20 @@ Ho also did something similar but for the entire Ming dynasty. He looked at all 
 
 So, basically, these historians were trying to figure out how people became important in China's past. They were especially interested in whether the civil service exams were a fair way for anyone to move up in society or if being from a well-known family was still the most important thing. Their research gives us clues about how open or closed Chinese society was at different times.
 
+## Kracke and Ho
+
+Okay, so even though historians like Kracke and Ho found that it seemed easier than expected for people to move into the highest levels of Chinese society, it's not something everyone agrees on.
+
+Think of it like this: they found some evidence that the "cool kids" club wasn't always made up of the same families. People from less privileged backgrounds could sometimes work their way in.
+
+However, more recent research, often looking at family history records (genealogies), has pointed out many cases where the rich and powerful families managed to stay rich and powerful for generations. It's like some families just had a knack for staying on top.
+
+Ho himself even mentioned that the evidence he and others had about this "social fluidity" (how easily people could move up or down) was mostly based on stories, family trees, novels, and what people at the time said about clans and families. It wasn't always hard, cold numbers.
+
+But, Ho also used family trees to show that even high-status families could lose their position if their kids or grandkids weren't capable. So, it wasn't always guaranteed that you'd stay on top just because your parents were.
+
+Basically, what this paragraph is saying is that the picture is complicated. History shows us examples of families that stayed powerful for a long time, but also examples of powerful families losing their status. So, while there might have been some opportunities for people to move up, it wasn't always a one-way street, and the old powerful families still had ways of trying to stay in charge. It's a mix of things.
+
 
 
 
