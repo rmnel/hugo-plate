@@ -1,6 +1,6 @@
 ---
-title: ""
-meta_title: "TEACHING GENERAL EQUILIBRIUM THEORY IN THE EARLY TWENTIETH CENTURY: AN ANALYSIS OF TREATISES"
+title: "TEACHING GENERAL EQUILIBRIUM THEORY IN THE EARLY TWENTIETH CENTURY: AN ANALYSIS OF TREATISES"
+meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
