@@ -89,7 +89,7 @@ They looked at a specific place and families: They studied seven different famil
 They tracked a lot of people: They had information on about 9,800 men and almost 9,000 father-son pairs in their sample. Around the year 1790, this group of people made up about 2% of the total population of that county.
 Where was this place? Tongcheng County was located in a certain area of China, near a big river and not too far from the sea.1   
 
-## Gyna-what?
+## Gena-what?
 
 Okay, so think of these genealogies – those Chinese family history books we've been talking about – as really valuable sources of information about people's social and economic lives way back then.
 
