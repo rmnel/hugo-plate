@@ -325,6 +325,79 @@ So, to wrap it all up, these family history books that families kept themselves 
 
 Genealogies weren't just around because people believed in honoring their ancestors. They were also widespread because they kept track of how families organized themselves economically and politically within their own communities. Plus, these family history books were valuable documents that families carefully protected. If they were full of mistakes, they wouldn't have been able to do their main jobs, which were to help with important economic and ceremonial activities. Now, let's talk about the information I used for this study.
 
+### Sample Data: Coverage, Selection, and Representativeness
+
+## 4.1
+Okay, so picture this: we're looking at family history records from some groups of people who lived in a place called Tongcheng County in China way back in 1790. That's a pretty crowded place, like a busy city, with about 1.3 million people living there.
+
+This county was in a good spot, near a big river called the lower Yangzi River, which helped it grow and become successful. It was also not too far from some important cities in Chinese history, like Nanjing and Beijing.
+
+The land around Tongcheng was mostly used for growing rice, and the families that had the most money usually owned that land. Over many years, during the Ming and Qing Dynasties, this area became known for producing some really important and powerful government officials in China.
+
+## 4.2
+
+Okay, so using *all* the family history books from Tongcheng would be like looking at too many of the fancy families. To get a better picture of everyone, we need to pick the books carefully. The goal is to get a sample of people in our data that's like a good mix of the whole population.
+
+Since we're interested in how people moved up or down in society (that's "social mobility"), it's important to remember that most people in these family books were just regular folks, what they call "commoners." Only a small percentage, maybe around 2%, were the really high-up people.
+
+So, for the books we chose to study, we made sure to include *every single person* listed in them. Following these rules, we ended up using genealogies from seven different family groups: the Chen, Ma, Wang, Ye, Yin, Zhao, and Zhou families. This gave us information on about 40,000 people in total, including men, women, and children.
+
+## 4.3
+
+One thing we need to think about is how well these family history books actually represent *everyone* who lived in Tongcheng. If the books don't have complete information, then our picture of the past might be a little off.
+
+A researcher named Harrell did a study where he compared information in family history records with official records in Taiwan from the early 1900s. He found that the family books actually listed over 80% of the people when compared to the really accurate Japanese household records. That's pretty good!
+
+For our study in Tongcheng, it would be great to have super accurate official numbers for the population back then. But the problem is that the official records from China between the years 1300 and 1900 are kind of incomplete and not always reliable. So, we have to keep that in mind when we look at the information from the family history books.
+
+## 4.4
+
+Okay, so there's a graph, Figure 1, that shows two things: the official count of all the people in Tongcheng County and the total number of people in those seven families we're studying.
+
+If you look at the official count for the whole county between the years 1400 and 1825, you'll see that they didn't count the population very often or regularly. It only happened about 20 times in over 400 years!
+
+Also, the official numbers show that the population barely grew at all between the late 1400s and the early 1600s. That doesn't really make sense based on what we know about how populations usually change in China's history.
+
+On the other hand, the number of people in our seven families changes more smoothly over time because we have information for every year.
+
+It's not surprising that the official records from that time aren't perfect and are only available sometimes. But it does mean that we don't have a really good, reliable set of official numbers to compare our family history data to and see how well our sample represents everyone who lived in Tongcheng.
+
+## 4.5
+
+Even if the family history books don't give us the exact total number of people, they can still be really useful for other kinds of research. For example, if we want to compare different groups of people *within* the families over time, these books are a good way to do that.
+
+To see if our sample of seven families is somewhat typical, we can compare what we find in their records to what other researchers have said about Chinese society back then. Of course, we have to remember that those other studies might also have some guesses or estimates in them.
+
+For instance, a researcher named Fei thought that the wealthy, "leisure class" made up about the top 20% of the population. In my study, if we look at certain groups in a table (groups 2 to 22), they make up about 20.2% of all the people in our sample. These groups include people who maybe tried to pass the big government exams but didn't, village leaders, men with more than one wife, or people who bought official titles. So, the makeup of our sample seems to be in the ballpark of what other research suggests about the social classes at the time.
+
+## 4.6
+
+Also, I looked at how many really high-status people are in our family history books and compared that to what historical records say. A researcher named Chang said that if you counted people who had at least a certain level of academic title (called "sheng-yuan") as being in the upper class, they probably made up about the top 2% of everyone in the late Qing Dynasty.
+
+In our sample of families, the people who fit Chang's definition make up about 3.4%. If we only count the men who actually passed the tough government exams to get an official title, that number drops to 1.9%.
+
+These numbers suggest that our sample of families has a similar number of high-status people compared to what we generally think was true for China during that time. Plus, over 70% of the men in our sample don't show any signs of having a high social status, meaning they were likely just regular folks. Since most men in Tongcheng back then probably just had enough to get by, our sample seems to give us a good idea of what life was like for most people at the lower levels of society too.
+
+## 4.7
+
+I also looked at another set of family history information, called the "China Multigenerational Dataset," from a different part of China called Liaoning province. This data starts around the mid-1700s. In that dataset, about 2% of the people were listed as "Officials." In our Tongcheng family data, about 1.4% of the people had an official job.
+
+The fact that we have a slightly smaller percentage of officials in our Tongcheng sample compared to the Liaoning data might be because the people in the Liaoning records had stronger connections to the government at that time than regular people in China usually did.
+
+## 4.8
+
+I also looked at another set of family history information, called the "China Multigenerational Dataset," from a different part of China called Liaoning province. This data starts around the mid-1700s. In that dataset, about 2% of the people were listed as "Officials." In our Tongcheng family data, about 1.4% of the people had an official job.
+
+The fact that we have a slightly smaller percentage of officials in our Tongcheng sample compared to the Liaoning data might be because the people in the Liaoning records had stronger connections to the government at that time than regular people in China usually did.
+
+## 4.9
+
+Lastly, the number of really high-achieving scholars called "jinshi" that we found in our family records (there are 19 of them) matches the official lists kept by the Chinese government for Tongcheng. This makes us more confident that the information in these family books is accurate.
+
+So, even though our sample of families and the way we define social status might be a little different from other studies, overall, the way status is spread out in our sample looks pretty similar to what other research has found for China during this time.
+
+In the next part, we're going to look even closer at how we chose our families by comparing them to each other.
+
 
 
 
