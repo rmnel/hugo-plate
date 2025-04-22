@@ -205,7 +205,7 @@ One area of research starts with Ho's influential 1962 work on social mobility d
 
 **Footnote 9:** However, the patterns of mobility within China's top 5 percent are different from the mobility patterns of the entire Chinese population.
 
-## 2
+## 1.2
 
 Another area of research has looked at how things get passed down through generations by studying family records from Liaoning province in Northern China between 1749 and 1909 (Lee and Campbell 1997; Campbell and Lee 2003; Mare and Song 2014). Campbell and Lee (2011) even combined this information with surveys from the 1900s. This research emphasizes that your family from earlier generations and your wider relatives played a big role in whether you moved up in society, not just your parents (this idea is also supported by Solon 2014; Braun and Stuhler 2018; Keller and Shiue 2023).
 
@@ -213,13 +213,13 @@ The good thing about the Liaoning records is that they are more complete than mo
 
 **Footnote 10:** Also, the Liaoning records only go back to the mid-1700s. This is too late to see important changes and increases in social mobility that happened when job restrictions started to disappear in the late Ming dynasty (Watson and Ebrey 1991) and when more people could take the civil service exams during the change from the Ming to the Qing dynasty (Ho 1962). In contrast, the information we are looking at in *this* study is a better representation of the job restrictions in China at that time and covers a longer period of more than two or three centuries. Plus, the kind of information found in family histories is really important for answering the questions we're asking.
 
-## 3
+## 1.3
 
 A third area of growing interest is figuring out how family history records (genealogies) can help us study things that happen over many generations. Some recent work has used these records to understand how people reacted to population pressures (called Malthusian responses), how they used education and skills to deal with big problems, how diseases caused by the environment spread, and what limited people's ability to move (Hu 2023; Shiue and Keller 2023; Che 2023; Hess 2023).
 
 Recently, family history information has also been used to make census records match up better automatically. This helps in studying how social mobility changed between generations in the U.S. during the 1800s and 1900s (Price et al. 2021). Also, information that people remember and report about their families has been used to get better estimates of how much social mobility there is between generations (Jácome, Kuziemko, and Naidu 2022).
 
-## 4 
+## 1.4 
 
 Lastly, this research paper shows big changes in how people moved up or down in society over several centuries. It also takes into account the most important social groups at the time, which were clans (large family groups). Usually, studies about social mobility in China or other places don't really look at how these group connections affect things because they don't have information from such long periods. Or, some studies using just last names suggest that social mobility doesn't change much over time (Hao and Clark 2012; Clark 2014).
 
@@ -328,6 +328,7 @@ Genealogies weren't just around because people believed in honoring their ancest
 ### Sample Data: Coverage, Selection, and Representativeness
 
 ## 4.1
+
 Okay, so picture this: we're looking at family history records from some groups of people who lived in a place called Tongcheng County in China way back in 1790. That's a pretty crowded place, like a busy city, with about 1.3 million people living there.
 
 This county was in a good spot, near a big river called the lower Yangzi River, which helped it grow and become successful. It was also not too far from some important cities in Chinese history, like Nanjing and Beijing.
@@ -361,6 +362,10 @@ Also, the official numbers show that the population barely grew at all between t
 On the other hand, the number of people in our seven families changes more smoothly over time because we have information for every year.
 
 It's not surprising that the official records from that time aren't perfect and are only available sometimes. But it does mean that we don't have a really good, reliable set of official numbers to compare our family history data to and see how well our sample represents everyone who lived in Tongcheng.
+
+## Graph
+
+![image](https://github.com/user-attachments/assets/076f16bd-c4d2-4bbe-a7e0-0187b46862d0)
 
 ## 4.5
 
