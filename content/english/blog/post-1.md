@@ -3,7 +3,7 @@ title: "St Andrews"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/stAndrews.png"
+image: "/images/stAndrews.png.jpg"
 categories: ["Golf", "History"]
 author: "Ernie Els"
 tags: ["Hugo", "github"]
