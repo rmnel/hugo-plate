@@ -155,9 +155,47 @@ What's really interesting is that this study found the same pattern happening ov
 
 So, the author is showing that the changes they observed in China over centuries have something fundamental in common with what we see when we compare different places in the world today. When there's more opportunity for people to change their social standing, there tends to be less of a gap between the rich and the poor. It's like these two things – mobility and equality – are connected.
 
+## Pseudo Science
 
+Alright, let's break down how this research paper adds to what we know:
 
+This study helps us understand how social mobility worked during the Ming and Qing Dynasties (a long time ago in China). Before this, we didn't have a lot of hard numbers or statistical analysis on this topic. Most of what we knew was based on stories and less concrete evidence.
 
+Think of it like trying to understand the weather from old diaries instead of having actual temperature readings and weather maps.
+
+For periods in history before governments started collecting really good, representative data (like detailed census information), researchers have had to get creative. They've used things called "pseudo-links," which are often based on people having the same last name. The idea is that if people share a rare surname, they might be related, and you can try to track them that way.
+
+These older methods are useful and can give us some clues, and this new paper using family histories (genealogies) adds another important piece to the puzzle.
+
+While these family history books might not have information on every single person like a census would, they have a big advantage when it comes to following families across generations. The relationships – who the parents and children are – are clearly laid out in the genealogies. It's like having a ready-made family tree that shows the connections directly.
+
+So, this paper uses these family trees to give us a more direct way of seeing how social status was passed down (or not) from one generation to the next, which is a key part of understanding intergenerational mobility. It's adding a new and valuable type of evidence to the historical picture.
+
+## Up-low, Down-top
+
+Okay, so remember how some important studies about social mobility in China, like the one by Ho, mostly looked at the very top people – the 1 to 5 percent who did really well in those tough civil service exams?
+
+Well, the family history records (genealogies) let us look at a wider idea of "status." It's not just about getting those top exam scores. We can also see people who might have been wealthy or had some social standing even if they didn't have super high levels of education. Think of successful merchants or landowners – they might not have been top scholars, but they still had a certain level of status.
+
+What's really important about this research paper is that it looks at a sample where more than 70 percent of the men were not elites. This group includes regular commoners and people from lower social classes.
+
+So, this study is doing something new! It's not just focusing on the tiny sliver at the very top. It's digging into the lives and the mobility patterns of the vast majority of China's population – the everyday people. This means the results of this paper give us a much better and broader understanding of how social mobility worked for most people in China during that time, not just for the super-achieving scholars. It's like finally getting to see the whole picture instead of just a small corner of it.
+
+## Donuts ,Danishe's,and snuff 
+
+Okay, so this paper also connects to a lot of other research that looks at social mobility, both in the world today and going back to the 1800s. Many of these studies use a method called the "intergenerational regression approach." Think of this as a way of statistically measuring how much your parents' social or economic status influences your own.
+
+The author mentions that their research shows a big change over several centuries in something called the "generational coefficient." This is a number that tells you how strongly your parents' status predicts your status. In this study, that number went down from 0.7 to 0.4. A lower number means that your parents' status has less of a hold on your future – in other words, more mobility.
+
+The author then compares this finding to other studies:
+
+One study found some changes in social mobility in Germany since the late 1800s.
+Another study suggested that social mobility in the U.S. has actually decreased since 1880.
+Studies on 19th-century Sweden found mobility estimates somewhere in the middle.
+Research on 19th-century jobs in the U.S. and the UK found even higher levels of mobility (a lower coefficient).
+The author points out that the fact that social mobility can be different in different regions might explain why these other studies have different results. By looking at how this "generational coefficient" changed over time in the same region of China, this paper aims to give us a better understanding of how mobility changes across different periods, which is something we don't know as much about compared to how mobility differs from place to place.
+
+So, in simple terms: this research fits into a bigger picture of studies trying to measure how much parents influence their children's social standing. By tracking this influence over a long period in one specific area of China, this paper helps us understand how social mobility can change over time, adding to what we know from comparing different countries or time periods.
 
 
 
