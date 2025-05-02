@@ -7,7 +7,7 @@
         "border": "#eaeaea",
         "light": "#f6f6f6",
         "dark": "#040404",
-        "shaboopy": "#2C3E50"
+        
       },
       "text_color": {
         "text": "#444444",
@@ -21,7 +21,8 @@
         "body": "#1c1c1c",
         "border": "#3E3E3E",
         "light": "#222222",
-        "dark": "#fff"
+        "dark": "#fff",
+        "shaboopy": "#2C3E50"
       },
       "text_color": {
         "text": "#B4AFB6",
