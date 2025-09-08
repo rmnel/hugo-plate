@@ -21,27 +21,27 @@ weight = 4
 name = "Pages"
 
 [[main]]
-name = "Rene"
+name = "your swing"
 url = "/your swing"
 weight = 5
 
 [[main]]
-name = "Rene"
+name = "pitching"
 url = "/pitching"
 weight = 6
 
 [[main]]
-name = "Rene"
+name = "driving"
 url = "/driving"
 weight = 7
 
 [[main]]
-name = "Rene"
+name = "chipping"
 url = "/chipping"
 weight = 8
 
 [[main]]
-name = "Rene"
+name = "putting"
 url = "/putting"
 weight = 9
 
@@ -86,4 +86,5 @@ weight = 2
 name = "Privacy Policy"
 url = "/privacy-policy"
 weight = 3
+
 
