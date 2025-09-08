@@ -15,3 +15,5 @@ Using century-old data on rail stations, agglomeration hubs, tin mines, and rubb
 ## Creative Design
 
 This study examines how historical rail stations condition long-run development using Colonial Malaya as a laboratory. By constructing novel historical data on rail stations, agglomeration centres, tin mines, and rubber plantations dating back a century and matching contemporary data on economic activity at the 1-km cell level, we find that regions with earlier access to rail stations exhibit higher levels of economic activity today, owing to agglomeration economies. These results persist even in regions that have abandoned colonial stations. This study highlights the role of investment in transport infrastructure in accelerating local economic activity.
+
+{{< youtube W9qXVdJ1GlI >}}
