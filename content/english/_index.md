@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title:"The Ultimate Training Package You Need To Start getting the Feel of Your Golf Swing"
-  content:"GOLFFeeL is a training package built with Golf and your Swing Style in mind, providing everything you need to jumpstart your Better Golf Game and Bring Down that handicap."
+  title: "The Ultimate Training Package You Need To Start getting the Feel of Your Golf Swing"
+  content: "GOLFFeeL is a training package built with Golf and your Swing Style in mind, providing everything you need to jumpstart your Better Golf Game and Bring Down that handicap."
   image: "/images/banner.png"
   button:
     enable: true
@@ -51,4 +51,5 @@ features:
       label: ""
       link: ""
 ---
+
 
