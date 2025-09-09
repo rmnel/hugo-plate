@@ -10,6 +10,8 @@ tags: ["technology", "tailwind"]
 draft: false
 ---
 
+{{< video src="https://collection.cloudinary.com/dall9kicf/fc9048385f669f3e03794f3418e384f9" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
+
 This paper uses newly digitized data on the growth of the telegraph network in America during 1840–1852 to study the impacts of the electric telegraph on national elections. Exploiting the expansion of the telegraph network in a difference-in-difference approach, I find that access to telegraphed news from Washington significantly increased voter turnout in national elections. Newspapers facilitated the dissemination of national news to local areas. Text analysis on historical newspapers shows that the improved access to news from Washington led local newspapers to cover more national political news, including coverage of Congress, the presidency, and sectional divisions involving slavery.
 
 ## Creative Design
@@ -19,3 +21,4 @@ Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+
