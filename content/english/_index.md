@@ -1,4 +1,5 @@
-https://res.cloudinary.com/dall9kicf/video/upload/v1753117683/samples/elephants.mp4
+
+{{< video src="https://res.cloudinary.com/dall9kicf/video/upload/v1753117683/samples/elephants.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
 
 
 ---
