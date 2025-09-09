@@ -2,11 +2,7 @@
 # Banner
 banner:
   title: "The Ultimate Training Package You Need To Start getting the Feel of Your Golf Swing"
-  content: 
-
-{{< video src="https://res.cloudinary.com/dall9kicf/video/upload/v1753117683/samples/elephants.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
-
-"Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  content:"Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
   image: "/images/banner.png"
   button:
     enable: true
