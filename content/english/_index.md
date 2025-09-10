@@ -30,7 +30,7 @@ features:
     image: "/images/service-2.png"
     content: "golfFEEL is more than just a collection of lessons; it's a holistic system designed to transform your game from the inside out. By focusing on the critical link between mind, body, and club, golfFEEL provides the essential tools you need to build a repeatable, confident swing and lower your handicap for good. Some of the key features are:"
     bulletpoints:
-      - "The **Feel** Method for Muscle Memory: The core of the package is a unique training method that helps you move beyond just "thinking" about your swing. It trains your body to instinctively know where the club is throughout the motion, leading to more consistent, powerful, and natural-feeling shots."
+      - "The **Feel** Method for Muscle Memory: The core of the package is a unique training method that helps you move beyond just thinking about your swing. It trains your body to instinctively know where the club is throughout the motion, leading to more consistent, powerful, and natural-feeling shots."
       - "Structured Progression, Not Random Tips: Unlike a jumble of online videos, **golfFEEL** provides a clear, step-by-step roadmap. The program is carefully structured to build upon your skills, ensuring you master the fundamentals before moving on to more advanced techniques and on-course strategies"
       - "Integrated Mental Game Training: Recognizing that golf is 90% mental, **golfFEEL** includes dedicated resources to help you build confidence, manage pressure, and develop a winning mindset. This focus on the psychological side of the game is what separates a good golfer from a great one."
     button:
@@ -51,6 +51,7 @@ features:
       label: ""
       link: ""
 ---
+
 
 
 
