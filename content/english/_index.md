@@ -15,8 +15,8 @@ features:
     image: "/images/service-1.png"
     content: "golfFEEL is a comprehensive starter training package that includes everything you need to get started with your Lower Golf Handicap. What's Included in golfFEEL"
     bulletpoints:
-      - "Instructional Video Series: Get a full suite of video lessons that walk you through the fundamentals"
-      - "A "FEEL" Training Aid: build better muscle memory and develop the instinctive "feel" for a great golf swing, not just the mechanics"
+      - "Instructional Video Series"
+      - "A "FEEL" Training Aid to develop the instinctive "feel" for a great golf swing, not just the mechanics"
       - "Drill and Practice Plan Handbook: A comprehensive guide with a structured way to practice and see real improvement"
       - "Mental Game Guide: A guide dedicated to the psychological side of golf, helping you stay calm under pressure and build unshakable on-course confidence"
       - "Community Access: Join an exclusive online community using golfFEEL to share your progress, get advice, and stay motivated on your journey to a lower handicap"
@@ -51,6 +51,7 @@ features:
       label: ""
       link: ""
 ---
+
 
 
 
