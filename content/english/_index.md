@@ -7,13 +7,13 @@ banner:
   button:
     enable: true
     label: "Feel Your Swing"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://rmnel.github.io/pages/blog"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "What's Included in golfFEEL"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "golfFEEL is a comprehensive starter training package that includes everything you need to get started with your Lower Golf Handicap. What's Included in golfFEEL"
     bulletpoints:
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"
@@ -51,5 +51,6 @@ features:
       label: ""
       link: ""
 ---
+
 
 
