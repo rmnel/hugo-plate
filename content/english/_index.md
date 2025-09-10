@@ -40,17 +40,18 @@ features:
 
   - title: "The Top Reasons to Choose golfFEEL to improve your golf handicap"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Choosing the right training system is a critical step on your journey to a lower handicap. While many programs offer fragmented advice, golfFEEL provides a complete, cohesive, and effective solution. It's designed to not only improve your swing but to fundamentally change the way you approach the game, making your progress faster and more sustainable"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "It's Designed for All Skill Levels"
+      - "A Focus on Instinctive Feel Over Technical Overload"
+      - "All-in-one approach saves you time and ensures all aspects of your training are working together"
+      - "Cost-Effective, Long-Term Value"
     button:
       enable: false
       label: ""
       link: ""
 ---
+
 
 
 
