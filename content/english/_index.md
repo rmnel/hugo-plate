@@ -15,12 +15,12 @@ features:
     image: "/images/service-1.png"
     content: "golfFEEL is a comprehensive starter training package that includes everything you need to get started with your Lower Golf Handicap. What's Included in golfFEEL"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Instructional Video Series: Get a full suite of video lessons that walk you through the fundamentals, from mastering your grip and stance to perfecting your full swing and short game"
+      - "A "FEEL" Training Aid: This unique physical tool is designed to help you build better muscle memory and develop the instinctive "feel" for a great golf swing, not just the mechanics"
+      - "Drill and Practice Plan Handbook: A comprehensive guide with a variety of focused drills you can use on the range or at home, giving you a structured way to practice and see real improvement."
+      - "Mental Game Guide: Learn how to think like a pro with a guide dedicated to the psychological side of golf, helping you stay calm under pressure and build unshakable on-course confidence."
+      - "Community Access: Join an exclusive online community of fellow golfers using golfFEEL to share your progress, get advice, and stay motivated on your journey to a lower handicap."
+      - "Swing Analysis Checklist: A simple, easy-to-use checklist that helps you quickly identify and fix common swing faults, giving you instant feedback to improve your game every time you practice."
     button:
       enable: false
       label: "Get Started Now"
@@ -51,6 +51,7 @@ features:
       label: ""
       link: ""
 ---
+
 
 
 
