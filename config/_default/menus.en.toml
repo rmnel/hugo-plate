@@ -11,10 +11,10 @@ name = "About"
 url = "/about"
 weight = 2
 
-[[main]]
-name = "Elements"
-url = "/elements"
-weight = 3
+#[[main]]
+#name = "Elements"
+#url = "/elements"
+#weight = 3
 
 [[main]]
 weight = 4
@@ -85,6 +85,7 @@ weight = 2
 name = "Privacy Policy"
 url = "/privacy-policy"
 weight = 3
+
 
 
 
