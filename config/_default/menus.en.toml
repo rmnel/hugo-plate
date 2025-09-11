@@ -22,26 +22,26 @@ name = "Pages"
 
 [[main]]
 weight = 5
-name = "your swing"
+name = "Your Swing"
 
 [[main]]
-parent = "your swing"
-name = "pitching"
+parent = "Your Swing"
+name = "Pitching"
 url = "/pitching"
 
 [[main]]
-parent = "your swing"
-name = "driving"
+parent = "Your Swing"
+name = "Driving"
 url = "/driving"
 
 [[main]]
-parent = "your swing"
-name = "chipping"
+parent = "Your Swing"
+name = "Chipping"
 url = "/chipping"
 
 [[main]]
-parent = "your swing"
-name = "putting"
+parent = "Your Swing"
+name = "Putting"
 url = "/putting"
 
 [[main]]
@@ -85,6 +85,7 @@ weight = 2
 name = "Privacy Policy"
 url = "/privacy-policy"
 weight = 3
+
 
 
 
