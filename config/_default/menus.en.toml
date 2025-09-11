@@ -22,8 +22,9 @@ url = "/blog"
 weight = 3
 
 [[main]]
-weight = 4
 name = "Your Swing"
+url = "/"
+weight = 4
 
 [[main]]
 parent = "Your Swing"
@@ -45,10 +46,10 @@ parent = "Your Swing"
 name = "Putting"
 url = "/putting"
 
-[[main]]
-parent = "Blog"
-name = "Blog"
-url = "/blog"
+#[[main]]
+#parent = "Blog"
+#name = "Blog"
+#url = "/blog"
 
 [[main]]
 parent = "About"
@@ -86,6 +87,7 @@ weight = 2
 name = "Privacy Policy"
 url = "/privacy-policy"
 weight = 3
+
 
 
 
