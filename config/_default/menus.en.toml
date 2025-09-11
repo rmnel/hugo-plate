@@ -18,7 +18,7 @@ weight = 2
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Blog"
 
 [[main]]
 weight = 5
@@ -45,29 +45,29 @@ name = "Putting"
 url = "/putting"
 
 [[main]]
-parent = "Pages"
+parent = "Blog"
 name = "Blog"
 url = "/blog"
 
 [[main]]
-parent = "Pages"
+parent = "About"
 name = "Contact"
 url = "/contact"
 
 [[main]]
-parent = "Pages"
+parent = "About"
 name = "Authors"
 url = "/authors"
 
 [[main]]
-parent = "Pages"
+parent = "Blog"
 name = "Categories"
 url = "/categories"
 
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+#[[main]]
+#parent = "Pages"
+#name = "404 Page"
+#url = "/404"
 
 
 # footer menu
@@ -77,14 +77,15 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "Blog"
+url = "/blog"
 weight = 2
 
 [[footer]]
 name = "Privacy Policy"
 url = "/privacy-policy"
 weight = 3
+
 
 
 
